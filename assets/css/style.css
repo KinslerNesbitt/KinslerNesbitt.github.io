@@ -49,7 +49,11 @@ section{
 	margin-top: 150px;
 }
 .green-section{
+<<<<<<< HEAD
 	background-color:#FF0000      ;
+=======
+	background-color:#7beec7;
+>>>>>>> parent of 43eeb16... Commit
 }
 .white-section{
 	background-color:#fff;
@@ -62,7 +66,11 @@ img{width:100%;}
 /*blockquote*/
 blockquote.bq{
 	padding: 30px;
+<<<<<<< HEAD
 	border-left: solid 10px #FF0000      ;
+=======
+	border-left: solid 10px #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	font-style: italic;
 	font-size: 14px;
 	line-height: 30px;
@@ -86,7 +94,11 @@ a.link:after{
 	left: 0;
 	width: 0;
 	height: 1px;
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	-webkit-transition:all .2s ease-in-out;
 			transition:all .2s ease-in-out;
 }
@@ -101,7 +113,11 @@ a:hover:after{
 .montserrat-text{font-family: "Montserrat", sans-serif; font-weight: 700}
 .open-sans-text{font-family: "Open sans", sans-serif}
 .white-text{color:white;}
+<<<<<<< HEAD
 .green-text{color:#FF0000      ;}
+=======
+.green-text{color:#7beec7;}
+>>>>>>> parent of 43eeb16... Commit
 .gray-text{color:#999999;}
 
 .uppercase{text-transform: uppercase;}
@@ -112,7 +128,11 @@ p{
 	line-height: 30px;
 }
 ul.social-icons li a:hover{
+<<<<<<< HEAD
 	color:#FF0000      ;
+=======
+	color:#7beec7;
+>>>>>>> parent of 43eeb16... Commit
 }
 /*section's title*/
 .section-title{
@@ -134,7 +154,11 @@ ul.social-icons li a:hover{
 }
 .section-title span:after{
 	content: "";
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	position: absolute;
 	top:20px;
 	left:0;
@@ -173,7 +197,11 @@ ul.list li:before{
 	content: '\f374';
 	position: absolute;
 	left: 0;
+<<<<<<< HEAD
 	color:#FF0000      ;
+=======
+	color:#7beec7;
+>>>>>>> parent of 43eeb16... Commit
 }
 /*list 2*/
 ul.list_2 li{
@@ -193,7 +221,11 @@ ul.list_2 li:first-child a{border-top:solid 1px #bfbfbf;}
 ul.list_2 li a > span{
 	float: right;
 }
+<<<<<<< HEAD
 ul.list_2 li a:hover{border-bottom: solid 1px #FF0000      ;}
+=======
+ul.list_2 li a:hover{border-bottom: solid 1px #7beec7;}
+>>>>>>> parent of 43eeb16... Commit
 /*list 3 (tags)*/
 ul.tags{
 	float: left;
@@ -256,12 +288,20 @@ ul.social-icons li a{
 	        box-shadow: 0 0 10px rgba(0,0,0,.2);
 }
 .btn.green{
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	color:#fff;
 }
 .btn.white{
 	background-color: #fff;
+<<<<<<< HEAD
 	color:#FF0000      ;
+=======
+	color:#7beec7;
+>>>>>>> parent of 43eeb16... Commit
 }
 @media (max-width: 991px) {
 	.btn{
@@ -285,7 +325,11 @@ ul.social-icons li a{
 }
 .tab nav .bottom-line{
 	height: 2px;
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	position: absolute;
 	bottom: -2px;
 	left: 0;
@@ -521,7 +565,11 @@ footer.main-footer nav.footer-nav ul li a{
 .site-hero .small-title{
 	color:#60606e;
 	padding: 7px 12px;
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	display: inline-block;
 }
 .site-hero .big-title{
@@ -627,7 +675,11 @@ footer.main-footer nav.footer-nav ul li a{
 }
 .portfolio .categories-grid .categories ul li a.active{
 	margin-left: 0;
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	padding: 0 10px;
 	color:white;
 }
@@ -687,7 +739,11 @@ footer.main-footer nav.footer-nav ul li a{
 	font-style: normal;
 	font-weight: 700;
 	display: inline-block; 
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	padding: 5px;
 	color:white;
 	margin-top: 5px;
@@ -735,7 +791,11 @@ footer.main-footer nav.footer-nav ul li a{
 	text-align: center;
 }
 .pages_pagination > a:hover{
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	color:white;
 }
 @media (max-width: 991px) {
@@ -817,7 +877,11 @@ footer.main-footer nav.footer-nav ul li a{
 	z-index: 1;
 }
 .input_1 > span.active,.textarea_1 > span.active{
+<<<<<<< HEAD
 	color:#FF0000      ;
+=======
+	color:#7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	font-size: 10px;
 	top:0px;
 	left: 5px;
@@ -873,7 +937,11 @@ footer.main-footer nav.footer-nav ul li a{
 	left: 0;
 	height: 20px;
 	width: 40px;
+<<<<<<< HEAD
 	background-color :#FF0000      ;
+=======
+	background-color :#7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	z-index: -1
 }
 .benefits_1_single > .title{
@@ -885,7 +953,11 @@ footer.main-footer nav.footer-nav ul li a{
 .benefits_2_single:nth-last-child(-n+3){margin-bottom: 30px;}
 .benefits_2_single > i{
 	display: inline-block;
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	height: 40px;
 	width: 40px;
 	line-height: 40px;
@@ -905,7 +977,11 @@ footer.main-footer nav.footer-nav ul li a{
 /* ##### 07 : PRICING PLANS STYLES  ##### */
 .pricing_plan{
 	padding: 30px;
+<<<<<<< HEAD
 	border-top: solid 5px #FF0000      ;
+=======
+	border-top: solid 5px #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	position: relative;
 	-webkit-transition:all .2s ease-in-out;
 	transition:all .2s ease-in-out;
@@ -921,7 +997,11 @@ footer.main-footer nav.footer-nav ul li a{
 	border-left: 10px solid transparent;
 	border-right: 0px solid transparent;
 	
+<<<<<<< HEAD
 	border-top: 10px solid #FF0000      ;
+=======
+	border-top: 10px solid #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 }
 .pricing_plan:hover{
 	-webkit-transform:scale(1.01);
@@ -934,7 +1014,11 @@ footer.main-footer nav.footer-nav ul li a{
 	font-size: 30px;
 } 
 .pricing_plan .plan_price{
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	padding: 5px 20px;
 	color:white;
 	font-size: 14px;
@@ -989,7 +1073,11 @@ footer.main-footer nav.footer-nav ul li a{
 .team_member .team_member_hover .team_member_info .team_member_job{
 	display: inline-block;
 	margin-top: 10px;
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	padding: 5px;
 	font-family: "Montserrat", sans-serif;
 	font-weight: 700;
@@ -1033,7 +1121,11 @@ footer.main-footer nav.footer-nav ul li a{
 .testimonials_single p{margin: 30px 0;}
 .testimonials_single .author_name{
 	padding: 7px;
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	color:white;
 	font-family: "Montserrat", sans-serif;
 	text-transform: uppercase;
@@ -1089,13 +1181,21 @@ footer.main-footer nav.footer-nav ul li a{
 	font-size: 11px;
 	font-family: "Montserrat", sans-serif;
 	text-transform: uppercase;
+<<<<<<< HEAD
 	background-color:#FF0000      ;
+=======
+	background-color:#7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	padding: 5px;
 	color:white;
 }
 .post_info{margin-bottom: 20px}
 .post_info .post_date{
+<<<<<<< HEAD
 	background-color: #FF0000      ;
+=======
+	background-color: #7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	height: 30px;
 	line-height: 30px;
 	padding: 0 15px;
@@ -1190,14 +1290,22 @@ footer.main-footer nav.footer-nav ul li a{
 	transition:all .2s ease-in-out;
 }
 .blog_pagination .page:hover i.prev{
+<<<<<<< HEAD
 	color:#FF0000      ;
+=======
+	color:#7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	display: inline-block;
 	-webkit-transform:translateX(10px);
 	    -ms-transform:translateX(10px);
 	        transform:translateX(10px);
 }
 .blog_pagination .page:hover i.next{
+<<<<<<< HEAD
 	color:#FF0000      ;
+=======
+	color:#7beec7;
+>>>>>>> parent of 43eeb16... Commit
 	display: inline-block;
 	-webkit-transform:translateX(-10px);
 	    -ms-transform:translateX(-10px);
